@@ -9,10 +9,10 @@ You can find my renders inside this repository as well as the Blenderscene and a
 ![The Final Render](FinalRenders/beautyshot-composited.png)
 
 ## With some Fog
-![Foggy Render](FinalRenders/beautyshot-composited.png)
+![Foggy Render](FinalRenders/foggy-render-noise-glow.png)
 
 ## From the Outside
-![Outside Render](FinalRenders/beautyshot-composited.png)
+![Outside Render](FinalRenders/outer-screenshot.png)
 
 ## Profile of the Kaiju
-![My Profile-Picture](FinalRenders/beautyshot-composited.png)
+![My Profile-Picture](FinalRenders/headshot-1.png)
