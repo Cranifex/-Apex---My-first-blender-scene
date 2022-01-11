@@ -16,5 +16,5 @@ For the blenderfile please feel free to use the following link to download it (I
 ## From the Outside
 ![Outside Render](FinalRenders/outer-screenshot.png)
 
-## Profile of the Kaiju
+## Headshot of the Kaiju
 ![My Profile-Picture](FinalRenders/headshot-1.png)
