@@ -5,7 +5,7 @@ To be honest, I am quite content with the result for the given timeframe, eventh
 
 You can find my renders inside this repository as well as a rather loose documentation of the process.
 
-For the blenderfile please feel free to use the following link to download it (It exceeds my git lfs data quoata) : 
+For the blenderfile please feel free to use the following link to download it (It exceeds my git lfs data quoata): https://drive.google.com/file/d/14ozV_EPlD80UMoKlkE8QIR7D3-afoFfT/view?usp=sharing
 
 ## The final Render
 ![The Final Render](FinalRenders/beautyshot-composited.png)
